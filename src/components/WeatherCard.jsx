@@ -69,7 +69,7 @@ const WeatherCard = () => {
   return (
     <div className="card">
       <h2>
-        🌤️ Destination Weather
+        Destination Weather
       </h2>
       
       <div className="flex mb-1">
