@@ -82,7 +82,7 @@ npm run build
 # Upload dist/ folder to your hosting provider
 ```
 
-## 📱 Usage
+##  Usage
 
 1. **Sign Up/Login**: Create an account or sign in with Google/GitHub
 2. **Check Weather**: Enter your destination to get current weather conditions
