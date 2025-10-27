@@ -1,8 +1,8 @@
-# 🧭 Marysah's Travel Packing & Checklist Web Application
+#  Marysah's Travel Packing & Checklist Web Application
 
 A modern, user-friendly travel packing application that helps travelers efficiently plan, organize, and manage their trips with real-time weather integration and secure cloud storage.
 
-## ✨ Features
+##  Features
 
 - **Smart Packing Management**: Create, edit, and delete customized packing lists for each trip
 - **Real-Time Weather Integration**: Get live weather updates for your destination using OpenWeatherMap API
@@ -12,7 +12,7 @@ A modern, user-friendly travel packing application that helps travelers efficien
 - **Progress Tracking**: Visual progress bar to track packing completion
 - **Trip Organization**: Organize items by trip name for better management
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Frontend**: React 19, Vite, Tailwind CSS
 - **Backend**: Firebase (Authentication & Firestore)
@@ -20,14 +20,14 @@ A modern, user-friendly travel packing application that helps travelers efficien
 - **Deployment**: Netlify with GitHub Actions CI/CD
 - **State Management**: React Context API
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Node.js (v18 or higher)
 - npm or yarn
 - Firebase account
 - OpenWeatherMap API account
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 ```bash
@@ -68,7 +68,7 @@ npm run dev
 
 Visit `http://localhost:5173` to see your app!
 
-## 🚀 Deployment
+##  Deployment
 
 ### Netlify Deployment
 1. Push your code to GitHub
@@ -90,25 +90,25 @@ npm run build
 4. **Track Progress**: Mark items as packed and see your progress
 5. **Organize by Trip**: Group items by trip name for better organization
 
-## 🔧 Available Scripts
+##  Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - OpenWeatherMap for weather data
 - Firebase for backend services

@@ -19,7 +19,7 @@ const Home = () => {
     <div className="container">
       <div className="text-center mb-1" style={{marginBottom: '2rem'}}>
         <h1 style={{fontSize: '2.5rem', fontWeight: 'bold', marginBottom: '0.5rem'}}>
-           Marysah's Travel Packing & Checklist
+           Travel Packing & Checklist
         </h1>
         <p style={{fontSize: '1.1rem', color: '#666'}}>
           Smart packing management with real-time weather integration
