@@ -4,6 +4,11 @@ import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Header from "./components/Header";
+import "./App.css";
+import { AuthProvider } from "./contexts/AuthContext";
+
+
+
 
 const App = () => {
   return (
